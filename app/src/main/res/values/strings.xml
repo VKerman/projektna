@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weka</string>
+    <string-array name="material_array">
+        <item>Polymer</item>
+        <item>Aluminium</item>
+        <item>Steel</item>
+    </string-array>
+    <string-array name="drive_array">
+        <item>Electric</item>
+        <item>Spring</item>
+        <item>Gas</item>
+    </string-array>
+</resources>
